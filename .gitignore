@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+insightmate_history.db
+.pytest_cache/
